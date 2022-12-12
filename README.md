@@ -1,3 +1,3 @@
 # git_test
 
-Welcome to the readme
+Hello Odim
